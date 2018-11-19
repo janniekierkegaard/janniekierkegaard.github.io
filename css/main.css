@@ -1,0 +1,81 @@
+
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color:#625354ff;
+    padding-top: 4rem;
+}
+
+.wheat-bg {
+    background-image: url("../img/Resized_20180502_113041001.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 90vh;
+    background-attachment: fixed;
+}
+
+.janniephoto {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.header-text {
+    color: #ffffff;
+}
+
+.text-container {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+}
+
+.border-left {
+    border-width: 3px !important;
+}
+
+/* navbar style */
+/* a.nav-link {
+    border-bottom: 2px solid #0071e2;
+} */
+.kinesio-icon {
+      width: 2.5rem;
+      height: 2.5rem;
+      padding: 0px !important;
+      margin-right: 5px;
+  }
+
+a:link, a.nav-link:link {
+    color:grey !important;
+  }
+
+a:visited, a.nav-link:visited {
+    color: grey !important;
+}
+
+a:hover, a.nav-link:hover {
+    color: #0071e2 !important;
+}
+
+a:active {
+    color: grey important!;
+}
+
+.nav {
+    font-size: 2rem;
+}
+
+
+/* media query */
+
+
+ 
+
+
+
+
+  
