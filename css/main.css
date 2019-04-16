@@ -9,6 +9,16 @@ body {
     padding-top: 4rem;
 }
 
+.sub-pages {
+    background-color: #ece9e9ff;
+    margin: 0 3em 0 3em;
+    width: auto;
+}
+
+.sub-page-img {
+    border: 0.25em solid white;
+}
+
 .wheat-bg {
     background-image: url("../img/Resized_20180502_113041001.svg");
     background-size: cover;
@@ -31,17 +41,34 @@ body {
     justify-content: center;
     align-items: center;
     display: flex;
-    height: 100vh;
+    height: 90vh;
 }
 
 .border-left {
     border-width: 3px !important;
 }
 
-/* navbar style */
-/* a.nav-link {
-    border-bottom: 2px solid #0071e2;
-} */
+.li-about{
+    margin-left: 2em;
+    margin-bottom: 1em;
+}
+
+.photo-main {
+    margin: 3em 0;
+}
+
+.photo-about {
+    max-width: 80%;
+}
+
+#whatiskin-text {
+    width: 80%;
+}
+
+.subpage-link-head {
+    font-size: 1em;
+}
+
 .kinesio-icon {
       width: 2.5rem;
       height: 2.5rem;
@@ -49,28 +76,75 @@ body {
       margin-right: 5px;
   }
 
-a:link, a.nav-link:link {
-    color:grey !important;
+  a.text-secondary:hover {
+    color: #0071e2 !important;
   }
 
-a:visited, a.nav-link:visited {
-    color: grey !important;
-}
-
-a:hover, a.nav-link:hover {
+.activ > a, a:hover, a.nav-link:hover {
     color: #0071e2 !important;
-}
-
-a:active {
-    color: grey important!;
+    text-decoration: none;
 }
 
 .nav {
     font-size: 2rem;
 }
 
+footer lh {
+    font-size: 1.25em;
+    padding-bottom: 0.5em;
+}
 
-/* media query */
+.what-is {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+/*media queries*/
+
+@media only screen and (max-device-width: 996px) {
+    .sm-main{
+        text-align: center;
+    }
+
+    #contact-border {
+        border-width: 0px !important;
+    }
+
+    #further-info {
+        border-width: 0px !important;
+    }
+
+    .om-jannie {
+        text-align: center;
+        margin-left: 0px !important;
+    }
+
+    #contact {
+        text-align: center;
+    }
+
+    .sub-pages {
+        margin: 0 2em 0 2em;
+    }
+
+    .edu-list {
+        text-align: center;
+        padding-left: 0px;
+    }
+
+    .li-about {
+        list-style-type: none;
+        margin-left: 0px;
+    }
+
+    .what-is-img {
+       max-width: 100%;
+    }
+    
+}
 
 
  
