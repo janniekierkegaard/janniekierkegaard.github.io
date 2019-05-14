@@ -15,7 +15,7 @@ var navi = '<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-white"
                             <a class="nav-link" href="whatiskin.html">Hvad er Kinesiologi?</a>\
                         </li>\
                         <li class="nav-item mx-3 my-2 topnav">\
-                            <a class="nav-link" href="whattoexpect.html">Hvad kan man forvente</a>\
+                            <a class="nav-link" href="whattoexpect.html">Hvad kan man forvente?</a>\
                         </li>\
                         <li class="nav-item mx-3 my-2 topnav">\
                             <a class="nav-link" href="price.html">Priser og Kontakt</a>\
@@ -54,10 +54,10 @@ var foot = '<footer class="footer mt-4">\
                             <div class="col-8">\
                                 <ul class="list-unstyled">\
                                     <lh>Kinesiologi Vejle</lh>\
-                                    <li><a class="text-secondary" href="about.html">About</a></li>\
-                                    <li><a class="text-secondary" href="therapies.html">Therapies</a></li>\
-                                    <li><a class="text-secondary" href="whattoexpect.html">What to Expect</a></li>\
-                                    <li><a class="text-secondary" href="contact.html">Contact</a></li>\
+                                    <li><a class="text-secondary" href="about.html">Om</a></li>\
+                                    <li><a class="text-secondary" href="whatiskin.html">Hvad er Kinesiologi?</a></li>\
+                                    <li><a class="text-secondary" href="whattoexpect.html">Hvad kan man forvente?</a></li>\
+                                    <li><a class="text-secondary" href="price.html">Priser og Kontakt</a></li>\
                                 </ul>\
                             </div>\
                         </div>\
