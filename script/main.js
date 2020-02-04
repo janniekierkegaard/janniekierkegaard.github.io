@@ -6,7 +6,7 @@ var navi = '<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-white"
                 <div class="collapse navbar-collapse" id="navbarNav">\
                     <ul class="navbar-nav mr-auto">\
                         <li class="nav-item mx-3 my-2 topnav">\
-                            <a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>\
+                            <a class="nav-link" href="index.html">Hjem<span class="sr-only">(current)</span></a>\
                         </li>\
                         <li class="nav-item mx-3 my-2 topnav">\
                             <a class="nav-link" href="about.html">Om</a>\
