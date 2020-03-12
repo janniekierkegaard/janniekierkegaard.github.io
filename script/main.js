@@ -62,12 +62,12 @@ var foot = '<footer class="footer mt-4">\
                             </div>\
                         </div>\
                         <div class="col-md-5 border-left ml-3" id="contact-border">\
-                            <h5 class="text-md-left">Contact</h5>\
+                            <h5 class="text-md-left">Kontakt</h5>\
                             <div class="row">\
                                 <div class="col-8 my-auto">\
                                     <ul class="contact list-unstyled">\
                                         <li>Email: janniekierkegaard@hotmail.com</li>\
-                                        <li>Phone: +45 31 12 46 11</li>\
+                                        <li>Tlf: +45 31 12 46 11</li>\
                                     </ul>\
                                 </div>\
                             </div>\
